@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eri, a passionate Frontend Engineer with a keen eye for crafting exceptional user experiences. I thrive on the intersection of creativity and technology, turning design concepts into seamless, responsive, and pixel-perfect web applications.I fell in love with the magic of turning code into visually appealing and functional websites. Since then, I've immersed myself in the ever-evolving world of frontend technologies.
+I'm Eri🧑‍💻, a passionate Frontend Engineer with a keen eye for crafting exceptional user experiences. I thrive on the intersection of creativity and technology, turning design concepts into seamless, responsive, and pixel-perfect web applications.I fell in love with the magic of turning code into visually appealing and functional websites. Since then, I've immersed myself in the ever-evolving world of frontend technologies.
 
 
 ## Skills
