@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm Eri🧑‍💻, a passionate Frontend Engineer with a keen eye for crafting exceptional user experiences. I thrive on the intersection of creativity and technology, turning design concepts into seamless, responsive, and pixel-perfect web applications.I fell in love with the magic of turning code into visually appealing and functional websites. Since then, I've immersed myself in the ever-evolving world of frontend technologies.
+I'm Eri🧑‍💻,a passionate and detail-oriented software developer with a keen interest in crafting efficient and scalable solutions to real-world problems. My journey in the world of software development has equipped me with a diverse set of skills, ranging from designing and implementing robust software architectures to collaborating seamlessly within cross-functional teams.I approach software development as both an art and a science. I believe in writing clean, maintainable code that not only meets the functional requirements but also adheres to industry best practices. Collaboration is at the heart of my work philosophy, and I enjoy working closely with diverse teams to bring innovative ideas to life.
 
+I'm always open to new challenges, collaborations, and opportunities to contribute to innovative projects. If you're passionate about technology and seeking a dedicated software developer who brings both technical expertise and a collaborative spirit to the table, let's connect!
 
 ## Skills
 
