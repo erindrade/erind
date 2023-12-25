@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Eri🧑‍💻,a passionate web developer with a knack for turning ideas into digital experiences. My journey in the world of web development started with a fascination for creating interactive and user-friendly websites.I believe that a well-designed website not only looks great but also provides a seamless and enjoyable user experience. I stay up-to-date with the latest technologies and trends to ensure that my work reflects the cutting edge of web development.I enjoy working closely with clients to understand their goals and translate their vision into functional and aesthetically pleasing websites.I thrive on the challenge of bringing ideas to life.
+I'm Eri🧑‍💻,a passionate Web developer with a knack for turning ideas into digital experiences. My journey in the world of web development started with a fascination for creating interactive and user-friendly websites.I believe that a well-designed website not only looks great but also provides a seamless and enjoyable user experience. I stay up-to-date with the latest technologies and trends to ensure that my work reflects the cutting edge of web development.I enjoy working closely with clients to understand their goals and translate their vision into functional and aesthetically pleasing websites.I thrive on the challenge of bringing ideas to life.
 
-I'm always open to new challenges, collaborations, and opportunities to contribute to innovative projects. If you're passionate about technology and seeking a dedicated software developer who brings both technical expertise and a collaborative spirit to the table, let's connect!
+I'm always open to new challenges, collaborations, and opportunities to contribute to innovative projects. If you're passionate about technology and seeking a dedicated Web developer who brings both technical expertise and a collaborative spirit to the table, let's connect!
 
 ## Skills
 
